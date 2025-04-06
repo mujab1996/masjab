@@ -1,0 +1,3 @@
+socks5://Masjab-zone-custom-sessid-cCyfsOFM-sessTime-10:T94Nv3GC@aus.360s5.com:3600
+socks5://Masjab-zone-custom-sessid-IBWWIaYP-sessTime-10:T94Nv3GC@aus.360s5.com:3600
+socks5://Masjab-zone-custom-sessid-4aWHDzjg-sessTime-10:T94Nv3GC@aus.360s5.com:3600
